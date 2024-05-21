@@ -1,6 +1,6 @@
 # VLSI-LAB-EXPERIMENTS
       
-      simulation and implementation of logic gates ,adders and subtractors.
+      Simulation and Implementation of logic gates,adders and subtractors.
 
 AIM: 
 
